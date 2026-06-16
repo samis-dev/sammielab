@@ -1,22 +1,19 @@
 # Hi! I'm Sam, 
-A experienced web developer & software engineer student.
-
-I'm passionate about building and exploring new technologies.I have a particular enthusiasm for software architecture, where I enjoy designing robust, scalable and maintainable systems.
-
-
-## 📫 You can reach me in   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/sam-leonetti)
+Frontend engineer with a design background.
+I care as much about how things look as how they're built.
 
 ## 🛠 Tech Stack  
 
-![Java](https://img.shields.io/badge/Java-11-red) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)   
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white))
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white) ![Vite]
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-00A400?style=flat-square)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
@@ -26,7 +23,7 @@ I'm passionate about building and exploring new technologies.I have a particular
 ## 📚 Currently Reading 
 - Clean Architecture R.C. Martin
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammielab&show_icons=true&theme=radical)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samis-dev&show_icons=true&theme=radical)
 
 
 
